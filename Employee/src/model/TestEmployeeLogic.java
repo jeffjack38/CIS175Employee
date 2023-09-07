@@ -12,7 +12,7 @@ public class TestEmployeeLogic {
 	@Before
 	public void setUp() throws Exception {
 	}
-
+ 
 	@Test
 	public void testCalculateAppraisal() {
 		employee.setMonthlySalary(8000);
